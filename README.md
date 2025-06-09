@@ -16,7 +16,7 @@
 ---
 ## How to Run:
 
-🔧 How to Run
+ How to Run
 1. Clone the repo and navigate to the project folder
 
 git clone https://github.com/suleikaturro/BudgetTrackr.git
